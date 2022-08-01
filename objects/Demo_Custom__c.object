@@ -187,6 +187,7 @@
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
+        <length>50</length>
         <unique>false</unique>
     </fields>
     <validationRules>
